@@ -1,5 +1,5 @@
 @echo off
-title SMB Bruteforce - by Xelesk
+title SMB Bruteforce - by xesko
 color a
 echo.
 set /p ip="Enter IP Address: "
